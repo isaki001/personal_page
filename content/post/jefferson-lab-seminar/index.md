@@ -1,7 +1,7 @@
 ---
-title: Seminar at Jefferson National Laboratory
+title: My talk at Jefferson National Laboratory
 date: '2022-04-18'
-summary: Watch the recorderd presentation.
+summary: Watch the recorderd presentation for the seminar.
 ---
 
 [Click here for recording](https://www.jlab.org/video/cake-seminar-ioannis-sakiotis)
