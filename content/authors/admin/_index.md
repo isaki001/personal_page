@@ -54,27 +54,27 @@ skills:
     items:
       - name: C++
         description: ''
-        percent: 80
+        percent: 99
         icon: python
         icon_pack: fab
       - name: CUDA
         description: ''
-        percent: 100
+        percent: 99
         icon: chart-line
         icon_pack: fas
       - name: Profiling
         description: ''
-        percent: 40
+        percent: 90
         icon: database
         icon_pack: fas
       - name: R
         description: ''
-        percent: 40
+        percent: 85
         icon: database
         icon_pack: fas
       - name: PYTHON
         description: ''
-        percent: 40
+        percent: 50
         icon: database
         icon_pack: fas   
 
