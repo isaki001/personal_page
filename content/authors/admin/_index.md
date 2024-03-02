@@ -75,7 +75,7 @@ skills:
         percent: 40
         icon: database
         icon_pack: fas
-       - name: PYTHON
+      - name: PYTHON
         description: ''
         percent: 40
         icon: database
