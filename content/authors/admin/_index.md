@@ -25,7 +25,7 @@ organizations:
     url: https://www.odu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am an HPC researcher at Old Dominion University. I am the forefront of accelerating scientific computing software, from particle collider simulations, to matrix-vector computations, and numerical integration. 
+bio: Ioannis is a Ph.D. Candidate at Old Dominion University and has been developing state of the art parallel software. He earned his B.S. in Modeling and Simuation Engineering in 2014. He then worked on agent-based simulations under Dr. James Leathrum and earned his M.S. in Modeling and Simulation Engineering in 2016. Currently, he is collaborating with researchers at Fermi National Laboratory to accelerate cosmology-centered simulations through novel parallel algorithms. 
 
 # Interests to show in About widget
 interests:
@@ -109,5 +109,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am an HPC researcher at Old Dominion University. I am the forefront of accelerating scientific computing software, from particle collider simulations, to matrix-vector computations, and numerical integration.
 {style="text-align: justify;"}
