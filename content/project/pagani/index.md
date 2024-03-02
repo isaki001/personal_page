@@ -1,6 +1,6 @@
 ---
 title: PAGANI Deterministic Numerical Integrator
-summary: GPU Accelerator utilizing Degree 9 Quadrature Rules
+summary: GPU Accelerated numerical integrator utilizing Degree 9 quadrature rules
 tags:
   - CUDA
   - Numerical Integration
