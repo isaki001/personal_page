@@ -25,7 +25,7 @@ organizations:
     url: https://www.odu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am an HPC researcher at Old Dominion University. I am the forefront of accelerating scientific computing software, from particle collider simulations, to matrix-vector computations, and numerical integration. 
 
 # Interests to show in About widget
 interests:
@@ -55,40 +55,31 @@ education:
 skills:
   - name: Technical
     items:
-      - name: Python
+      - name: C++
         description: ''
         percent: 80
         icon: python
         icon_pack: fab
-      - name: Data Science
+      - name: CUDA
         description: ''
         percent: 100
         icon: chart-line
         icon_pack: fas
-      - name: SQL
+      - name: Profiling
         description: ''
         percent: 40
         icon: database
         icon_pack: fas
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
+      - name: R
         description: ''
-        percent: 60
-        icon: person-hiking
+        percent: 40
+        icon: database
         icon_pack: fas
-      - name: Cats
+       - name: PYTHON
         description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera-retro
-        icon_pack: fas
+        percent: 40
+        icon: database
+        icon_pack: fas   
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -98,21 +89,15 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.ca/citations?user=T3vpKkEAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/isaki001
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/ioannis-sakiotis-4508a0a8/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
