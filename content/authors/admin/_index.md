@@ -2,9 +2,6 @@
 # Display name
 title: Ioannis Sakiotis
 
-# Name pronunciation (optional)
-name_pronunciation: Eoanes Sakeotes
-
 # Full name (for SEO)
 first_name: Ioannis
 last_name: Sakiotis
@@ -103,11 +100,11 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/Resume.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-I am an HPC researcher at Old Dominion University. I am the forefront of accelerating scientific computing software, from particle collider simulations, to matrix-vector computations, and numerical integration.
+I am an HPC researcher at Old Dominion University. I am the forefront of accelerating scientific computing software, from particle collider simulations and matrix-vector computations, to numerical integration.
 {style="text-align: justify;"}
