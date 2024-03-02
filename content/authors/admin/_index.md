@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 吳健雄
+title: Ioannis Sakiotis
 
 # Name pronunciation (optional)
 name_pronunciation: Eoanes Sakeotes
