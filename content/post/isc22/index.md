@@ -1,8 +1,8 @@
 
 ---
-title: Talk at prestigious ISC22 conference, m-Cubes: A Monte Carlo GPU integrator
+title: Talk at prestigious ISC22 conference, m-Cubes A Monte Carlo GPU integrator
 date: '2022-05-31'
-summary: m-Cubes: An efficient and portable implementation of multi-dimensional integration for GPUs
+summary: m-Cubes An efficient and portable implementation of multi-dimensional integration for GPUs
 ---
 
 [Link] (https://app.swapcard.com/event/isc-high-performance-2022/planning/UGxhbm5pbmdfODYyODcy)
