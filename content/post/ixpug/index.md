@@ -1,6 +1,6 @@
 ---
 title: My Talk at IXPUG 2022
-date: '2023-11-27'
+date: '2022-11-27'
 summary: Porting Multi-Dimensional Numerical Integration Methods from CUDA to oneAPI
 ---
 
