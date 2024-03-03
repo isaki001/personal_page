@@ -1,5 +1,5 @@
 ---
-title: 'An example conference paper'
+title: 'Porting numerical integration codes from CUDA to oneAPI: a case study'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -8,12 +8,7 @@ authors:
   - admin
   - Ioannis Sakiotis
 
-# Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
-
-date: '2013-07-01T00:00:00Z'
+date: '2021-11-18'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -28,10 +23,11 @@ publication_types: ['paper-conference']
 publication: In *Hugo Blox Builder Conference*
 publication_short: In *ICW*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+abstract: We present a new adaptive parallel algorithm for the challenging problem of multi-dimensional numerical integration on massively parallel architectures. Adaptive algorithms have demonstrated the best performance, but efficient many-core utilization is difficult to achieve because the adaptive work-load can vary greatly across the integration space and is impossible to predict a priori.
+Existing parallel algorithms utilize sequential computations on independent processors, which results in bottlenecks due to the need for data redistribution and processor synchronization.
+Our algorithm employs a high-throughput approach in which all existing sub-regions are processed and sub-divided in parallel.
+Repeated sub-region classification and filtering improves upon a brute-force approach and allows the algorithm to make efficient use of computation and memory resources.
+A CUDA implementation shows orders of magnitude speedup over the fastest open-source CPU method and extends the achievable accuracy for difficult integrands. Our algorithm typically outperforms other existing deterministic parallel methods.
 
 tags: []
 
