@@ -29,6 +29,7 @@ Our algorithm employs a high-throughput approach in which all existing sub-regio
 Repeated sub-region classification and filtering improves upon a brute-force approach and allows the algorithm to make efficient use of computation and memory resources.
 A CUDA implementation shows orders of magnitude speedup over the fastest open-source CPU method and extends the achievable accuracy for difficult integrands. Our algorithm typically outperforms other existing deterministic parallel methods.
 
+summary:
 tags: []
 
 # Display this page in the Featured widget?
