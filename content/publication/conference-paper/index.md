@@ -23,7 +23,7 @@ publication_types: ['paper-conference']
 publication: In *Hugo Blox Builder Conference*
 publication_short: In *ICW*
 
-abstract: We present a new adaptive parallel algorithm for the challenging problem of multi-dimensional numerical integration on massively parallel architectures. Adaptive algorithms have demonstrated the best performance, but efficient many-core utilization is difficult to achieve because the adaptive work-load can vary greatly across the integration space and is impossible to predict a priori. Existing parallel algorithms utilize sequential computations on independent processors, which results in bottlenecks due to the need for data redistribution and processor synchronization. Our algorithm employs a high-throughput approach in which all existing sub-regions are processed and sub-divided in parallel.
+abstract: We present a new adaptive parallel algorithm for the challenging problem of multi-dimensional numerical integration on massively parallel architectures. Adaptive algorithms have demonstrated the best performance, but efficient many-core utilization is difficult to achieve because the adaptive work-load can vary greatly across the integration space and is impossible to predict a priori. Existing parallel algorithms utilize sequential computations on independent processors, which results in bottlenecks due to the need for data redistribution and processor synchronization. Our algorithm employs a high-throughput approach in which all existing sub-regions are processed and sub-divided in parallel. Repeated sub-region classification and filtering improves upon a brute-force approach and allows the algorithm to make efficient use of computation and memory resources.
 
 # Summary. An optional shortened abstract.
 summary: 
