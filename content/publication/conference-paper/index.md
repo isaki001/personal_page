@@ -23,13 +23,11 @@ publication_types: ['paper-conference']
 publication: In *Hugo Blox Builder Conference*
 publication_short: In *ICW*
 
-abstract: We present a new adaptive parallel algorithm for the challenging problem of multi-dimensional numerical integration on massively parallel architectures. Adaptive algorithms have demonstrated the best performance, but efficient many-core utilization is difficult to achieve because the adaptive work-load can vary greatly across the integration space and is impossible to predict a priori.
-Existing parallel algorithms utilize sequential computations on independent processors, which results in bottlenecks due to the need for data redistribution and processor synchronization.
-Our algorithm employs a high-throughput approach in which all existing sub-regions are processed and sub-divided in parallel.
-Repeated sub-region classification and filtering improves upon a brute-force approach and allows the algorithm to make efficient use of computation and memory resources.
-A CUDA implementation shows orders of magnitude speedup over the fastest open-source CPU method and extends the achievable accuracy for difficult integrands. Our algorithm typically outperforms other existing deterministic parallel methods.
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
-summary:
+# Summary. An optional shortened abstract.
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+
 tags: []
 
 # Display this page in the Featured widget?
